@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front End Development, UX/UI design, Product Design.
 - 🌱 I’m currently learning HTML5, Javascript, CSS,Java ,Ruby
 - 📫 How to reach me www.linkedin.com/in/priscilla-falcão-356426124
+- 📓 Potfólio on: https://www.notion.so/Ol-Me-chamo-Priscilla-Falc-o-c8fb2a1f6b4d4aa7825c47ca42136c56
 -
 
 <!---
