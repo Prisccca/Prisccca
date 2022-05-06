@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prisccca ( Priscilla Falcão)
-- 👀 I’m interested in Front End Development, UX/UI design, Product Design.
-- 🌱 I’m currently learning HTML5, Javascript, CSS,Java ,Ruby
+- 👀 I’m interested in Full stack Development for Web and Mobile and UX Design
+- 🌱 I’m currently learning HTML5, Javascript, CSS3,Java ,Ruby
 - 📫 How to reach me www.linkedin.com/in/priscilla-falcão-356426124
 - 📓 Potfólio on: https://prisccafalcao.notion.site/Portf-lio-Priscilla-Falc-o-c8fb2a1f6b4d4aa7825c47ca42136c56
 -
