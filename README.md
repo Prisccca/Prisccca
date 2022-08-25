@@ -6,8 +6,7 @@
 - 👩‍💻 Learning Frameworks: Angular 8+, Spring Boot, React, IONIC.
 - 👩‍💻 Learning CSS : Bootstrap . SASS
 
--  ✨ In the Star page you can find all the projects that I reproduce till now :  
-[![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
+-  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
 
 
 
