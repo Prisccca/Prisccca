@@ -2,8 +2,8 @@
 
 - 👀 I’m interested in Full stack Development for Web and Mobile and UX Research
 - 👩‍🎓  Student of Telemática at IFCE
-- 👩‍💻 Learning Languages: HTML5,CSS3, Javascript, Java , Ruby , Flutter (Dart) and Swift.
-- 👩‍💻 Learning Frameworks: Angular 8+, Spring Boot, React, IONIC.
+- 👩‍💻 Learning Languages: HTML5,CSS3, Javascript, Java , Ruby 
+- 👩‍💻 Learning Frameworks: Angular 8+, React.
 - 👩‍💻 Learning CSS : Bootstrap . SASS
 
 -  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
@@ -33,10 +33,6 @@
       <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
       <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
       <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      </br>
-      </br>
-      <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-      <img align="center" alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
       </br>
       </br>
       <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "/>
