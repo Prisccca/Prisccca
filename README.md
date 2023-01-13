@@ -17,7 +17,11 @@
 
 
    [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscillaffd/)
+   </br>
    [![PORTIFÓLIO](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://prisccafalcao.notion.site/Portf-lio-Priscilla-Falc-o-c8fb2a1f6b4d4aa7825c47ca42136c56)
+   </br>
+   [![BLOGGER](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://resumostech.blogspot.com/)
+   
    
  
    
