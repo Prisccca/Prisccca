@@ -22,6 +22,8 @@
    </br>
    [![BLOGGER](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://resumostech.blogspot.com/)
    
+   [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Prisccca)
+   
    
  
    
@@ -40,6 +42,10 @@
       <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white "/>
       <img align="center" alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
       <img align="center" alt="Ruby-on-Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+      </br>
+      </br>
+      <img align="center" alt="FIGMA" src=" https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+      
   </div><br>
   
   ## " Bit a bit construindo meus conhecimentos em programação"
