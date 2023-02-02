@@ -54,8 +54,7 @@
       </br>
       <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
       
-      
-    </div><br>
+      </div><br>
   
     ### " Bit a bit construindo meus conhecimentos em programação"
    
