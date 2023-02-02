@@ -28,7 +28,7 @@
    ## Learning Plataforms
    
    <div style="display : inline-block"> <br/>
-      <img align="center" alt="UDEMY" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+      <img align="center" alt="UDEMY" src="https://img.shields.io/badge/Udemy-6c44bc?style=for-the-badge&logo=Udemy&logoColor=white"/>
       <img align="center" alt="FREECODECAMP" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=whit"/>
   </div><br>
  
