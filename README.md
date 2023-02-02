@@ -46,6 +46,10 @@
       </br>
       <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       
+      </br>
+      <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+      
+      
   </div><br>
   
   ## " Bit a bit construindo meus conhecimentos em programação"
