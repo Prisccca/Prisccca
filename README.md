@@ -24,7 +24,12 @@
    
    [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Prisccca)
    
+   ## Learning Plataforms
    
+   <div style="display : inline-block"> <br/>
+      <img align="center" alt="UDEMY" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+      <img align="center" alt="FREECODECAMP" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=whit"/>
+  </div><br>
  
    
    
