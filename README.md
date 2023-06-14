@@ -3,9 +3,9 @@
 
 - 👀 I’m interested in Full stack Development for Web and Mobile and UX Research
 - 👩‍🎓  Student of Telemática at IFCE
-- 👩‍💻 Learning Languages: HTML5,CSS3, Javascript, Java , Ruby 
-- 👩‍💻 Learning Frameworks: Angular 8+, React.
-- 👩‍💻 Learning CSS : Bootstrap . SASS
+- 👩‍💻 HTML5,CSS3, Javascript, Java , Ruby 
+- 👩‍💻 Frameworks: Angular 8+, React.
+- 👩‍💻 CSS : Bootstrap . SASS, Tailwind
 
 -  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
 
