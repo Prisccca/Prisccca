@@ -1,11 +1,11 @@
 ### 👋 👩‍🦱 Hi, I’m @Prisccca ( Priscilla Falcão)
   ### " Bit a bit construindo meus conhecimentos em programação"
-
-- 👀 I’m interested in Full stack Development for Web and Mobile and UX Research
-- 👩‍🎓  Student of Telemática at IFCE
-- 👩‍💻 HTML5,CSS3, Javascript, Java , Ruby 
-- 👩‍💻 Frameworks: Angular 8+, React.
-- 👩‍💻 CSS : Bootstrap . SASS, Tailwind
+ ## Fullstack Developer
+ 
+- 👩‍🎓 Telemática at IFCE
+- 👩‍💻 HTML5,CSS3, Javascript, Java
+- 👩‍💻 Frameworks: Angular 8+, React/Next.js.
+- 👩‍💻 Frameworks CSS : Bootstrap | Tailwind
 
 -  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
 
