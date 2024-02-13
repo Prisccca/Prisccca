@@ -1,5 +1,5 @@
 ### 👋 👩‍🦱 Hi, I’m @Prisccca ( Priscilla Falcão)
-  ### " Bit a bit construindo meus conhecimentos em programação"
+  ### " Bit a bit construindo meus conhecimentos em TI"
  ## Fullstack Developer
  
 - 👩‍🎓 Engenharia de Telecomunicações at IFCE
