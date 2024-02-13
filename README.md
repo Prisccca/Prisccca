@@ -2,10 +2,10 @@
   ### " Bit a bit construindo meus conhecimentos em programação"
  ## Fullstack Developer
  
-- 👩‍🎓 Telemática at IFCE
-- 👩‍💻 HTML5,CSS3, Javascript, Java
-- 👩‍💻 Frameworks: Angular 8+, React/Next.js.
-- 👩‍💻 Frameworks CSS : Bootstrap | Tailwind
+- 👩‍🎓 Engenahria de Telecomunicações at IFCE
+- 👩‍💻 Fullstack Developer JAVA/Angular
+- 👩‍💻 Suporte TI | IoT | Machine Learning | Automação | Redes de Computadores
+
 
 -  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
 
@@ -19,9 +19,7 @@
 
    [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscillaffd/)
    </br>
-   [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/priscccafalcao)
-   </br>
-   [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Prisccca)
+
    
    ## Learning Plataforms
    
