@@ -2,7 +2,7 @@
   ### " Bit a bit construindo meus conhecimentos em programação"
  ## Fullstack Developer
  
-- 👩‍🎓 Engenahria de Telecomunicações at IFCE
+- 👩‍🎓 Engenharia de Telecomunicações at IFCE
 - 👩‍💻 Fullstack Developer JAVA/Angular
 - 👩‍💻 Suporte TI | IoT | Machine Learning | Automação | Redes de Computadores
 
