@@ -1,20 +1,12 @@
 ### 👋 👩‍🦱 Hi, I’m @Prisccca ( Priscilla Falcão)
   ### " Bit a bit construindo meus conhecimentos em TI"
- ## Fullstack Developer
+ ## Software Developer / Cybersecurity / Network and Telecommunications Engineer
  
 - 👩‍🎓 Engenharia de Telecomunicações at IFCE
 - 👩‍💻 Suporte TI | IoT | Machine Learning | Automação | Redes de Computadores
 
 
 -  ✨Projects :   [![Stars Git](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prisccca?tab=stars)
-
-
-
-
-
-  
-  
-
 
    [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscillaffd/)
    </br>
@@ -36,12 +28,6 @@
       <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
       <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "/>
       </br>
-      </br>
-      <img align="center" alt="FIGMA" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      </br>
-      <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-      <img align="center" alt="SUPABASE" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-      </br>  
     </div></br>
       
     
