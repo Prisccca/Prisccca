@@ -1,6 +1,6 @@
 ### 👋 👩‍🦱 Hi, I’m @Prisccca ( Priscilla Falcão)
   ### " Bit a bit construindo meus conhecimentos em TI"
- ## Software Developer / Cybersecurity / Network and Telecommunications Engineer
+ ## Cloud and Network Computer Engineer / Cybersecurity / Telecommunications Engineer
  
 - 👩‍🎓 Engenharia de Telecomunicações at IFCE
 - 👩‍💻 Suporte TI | IoT | Machine Learning | Automação | Redes de Computadores
